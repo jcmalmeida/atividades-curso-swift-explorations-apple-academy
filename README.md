@@ -1,0 +1,2 @@
+# Atividades - Desenvolvimento iOS
+Este repositório contém atividades desenvolvidas durante o curso Swift Explorations oferecido pela Apple Academy de Campinas. Para o projeto final, desenvolvi um aplicativo que chamei de "MusicToolbox", voltado a músicos aprendizes, contendo as funções de diapasão (útil para a afinação de instrumentos) e metrônomo (acompanhamento de ritmo). Gravei um vídeo de demonstração do app em funcionamento: [Link para o vídeo no Youtube](https://www.youtube.com/watch?v=sFxYxcY4npU)

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Calculadora de média - parte 2'/>
+        <page name='SwiftEats'/>
+        <page name='Into the mistery dungeon'/>
+        <page name='P de Pizza'/>
+        <page name='O aumento'/>
+    </pages>
+</playground>
